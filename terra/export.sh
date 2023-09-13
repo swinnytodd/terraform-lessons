@@ -1,0 +1,8 @@
+
+#!/usr/bin/bash
+
+export AWS_ACCESS_KEY_ID=AKIAU6Z2UYIJ7NCM2H7Y
+export AWS_SECRET_ACCESS_KEY=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
+
+
+
